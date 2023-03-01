@@ -5,7 +5,7 @@ In  this project we will be learning about [Flex](https://www.w3schools.com/css/
 All you need to get started is 'git clone' this repository will have stared files for you. There is **one**, ~code~, and one *italicized* text in this document. 
 
 Happy Coding 
-!{https://media1.giphy.com/media/Zd0DYHlBmZTGaiIFRY/200.webp?cid=ecf05e47omj4qyoh3effvjkistbits3owp4274z1px39e70v&rid=200.webp&ct=g}
+![alt gif](https://media1.giphy.com/media/Zd0DYHlBmZTGaiIFRY/200.webp?cid=ecf05e47omj4qyoh3effvjkistbits3owp4274z1px39e70v&rid=200.webp&ct=g)
 
 ##Content should contain the following
 -humor-
